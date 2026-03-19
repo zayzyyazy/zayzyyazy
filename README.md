@@ -59,37 +59,55 @@ I don't have years of experience. What I do have is a clear sense of what I want
 🌱 Honest level: beginner — learning in public, building intentionally
 ```
 
----
-**🖥️ Human-Computer Interaction**
+## What I actually care about
 
-Why do some interfaces feel invisible and others feel like obstacles? The design of a system shapes what people can and can't do — I study that formally and think about it constantly.
+These are the areas I return to, read about, and want to build in — not just interests I listed to fill a section.
 
-<br/>
+**Human-Computer Interaction**
+Why do some interfaces feel invisible and others feel like obstacles? I study this formally and think about it constantly. The design of a system isn't neutral — it shapes what people can and can't do.
 
-**🤖 AI tools that actually work**
+**AI tools that actually work**
+Not AI as hype. AI as a practical layer that handles the tedious parts — summarization, categorization, extraction — so humans can focus on what requires judgment.
 
-Not AI as hype. AI as a practical layer: summarization, categorization, extraction — handling the tedious parts so humans can focus on what requires judgment.
+**Personal knowledge systems & automation**
+How people organize information to think better. Scripts that do repetitive work reliably. Pipelines that turn unstructured input into clean, usable output.
 
-</td>
-<td width="50%" valign="top">
-
-**📋 Personal knowledge systems**
-
-How people organize information to think better. Pipelines that turn unstructured input into clean, usable output. I find the architecture of knowledge genuinely interesting.
-
-<br/>
-
-**📖 Technology, power, and society**
-
-What surveillance capitalism means in practice. Why "neutral tools" don't exist. How design decisions carry political weight. I find this more interesting than most CS topics.
-
-</td>
-</tr>
-</table>
-
-</details>
+**Technology, power, and society**
+What surveillance capitalism means in practice. Why "neutral tools" don't exist. How design decisions carry political weight. I find this more interesting than most computer science topics.
 
 ---
+
+## Skills & tools
+
+> Skill levels are honest. Beginner means I can use it, not that I've mastered it.
+
+**Languages**
+
+| | Level |
+|---|---|
+| Python | beginner |
+| Markdown | beginner → intermediate |
+| HTML / CSS | beginner |
+
+**Tools & Platforms**
+
+| | Level |
+|---|---|
+| Git / GitHub | beginner |
+| VS Code | comfortable |
+| Linux / terminal basics | beginner |
+
+**Domains**
+
+| | Level |
+|---|---|
+| Automation & scripting | beginner → intermediate |
+| Document processing | beginner |
+| AI API integration | beginner |
+| UX research & HCI theory | studying |
+
+---
+
 
 ## 🛠️ Skills & Tools
 
