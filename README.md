@@ -27,44 +27,39 @@
 <tr>
 <td width="58%" valign="top">
 
-### Who I am
-
-I'm Zay. First-year HCI student, beginner programmer, and someone who thinks too much about why systems are designed the way they are.
-
-I build tools that handle information clearly — things I'd actually use. My interest sits at the intersection of **human-centered design**, **AI**, and **automation**: not technology for its own sake, but technology that removes friction and respects the person using it.
-
-I'm early in this. I'm not pretending otherwise. But I have a clear sense of what I want to build and why — and that shapes everything I make.
-
-</td>
-<td width="42%" valign="top">
-
-### Snapshot
-
-```yaml
-location    : Duisburg-Essen, Germany
-degree      : B.Sc. HCI + Psychology (yr 1)
-building    : AI document processing tools
-studying    : Python · Git · HCI theory
-thinking    : knowledge systems · tech & society
-level       : beginner — honest and intentional
-open to     : Werkstudentenstelle · internships
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<details>
-<summary><b>💡 What I actually care about</b> &nbsp;·&nbsp; <i>click to read</i></summary>
+<div align="center">
+  <sub>
+    B.Sc. Menschzentrierte Informatik &amp; Psychologie · Universität Duisburg-Essen<br/>
+    Interested in how technology shapes people — and how people should shape technology.
+  </sub>
+</div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
+## Who I am
+
+I'm Zay — a first-year HCI student studying the space between people and software. I'm early in my journey as a programmer, and I'm not pretending otherwise.
+
+What I care about is building things that are actually useful: tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
+
+I don't have years of experience. What I do have is a clear sense of what I want to build and why — and a habit of finishing what I start.
+
+---
+
+## Snapshot
+
+```
+📍 Duisburg-Essen, Germany
+🎓 B.Sc. Human-Centered Computing + Psychology (1st year)
+🔧 Currently building: AI-powered document processing tools
+📖 Currently studying: Python · Git · HCI theory · UX fundamentals
+🧠 Thinking about: personal knowledge systems, automation, tech & society
+🌱 Honest level: beginner — learning in public, building intentionally
+```
+
+---
 **🖥️ Human-Computer Interaction**
 
 Why do some interfaces feel invisible and others feel like obstacles? The design of a system shapes what people can and can't do — I study that formally and think about it constantly.
