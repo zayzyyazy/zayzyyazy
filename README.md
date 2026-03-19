@@ -63,51 +63,7 @@ I don't have years of experience. What I do have is a clear sense of what I want
 
 These are the areas I return to, read about, and want to build in — not just interests I listed to fill a section.
 
-**Human-Computer Interaction**
-Why do some interfaces feel invisible and others feel like obstacles? I study this formally and think about it constantly. The design of a system isn't neutral — it shapes what people can and can't do.
-
-**AI tools that actually work**
-Not AI as hype. AI as a practical layer that handles the tedious parts — summarization, categorization, extraction — so humans can focus on what requires judgment.
-
-**Personal knowledge systems & automation**
-How people organize information to think better. Scripts that do repetitive work reliably. Pipelines that turn unstructured input into clean, usable output.
-
-**Technology, power, and society**
-What surveillance capitalism means in practice. Why "neutral tools" don't exist. How design decisions carry political weight. I find this more interesting than most computer science topics.
-
----
-
-## Skills & tools
-
-> Skill levels are honest. Beginner means I can use it, not that I've mastered it.
-
-**Languages**
-
-| | Level |
-|---|---|
-| Python | beginner |
-| Markdown | beginner → intermediate |
-| HTML / CSS | beginner |
-
-**Tools & Platforms**
-
-| | Level |
-|---|---|
-| Git / GitHub | beginner |
-| VS Code | comfortable |
-| Linux / terminal basics | beginner |
-
-**Domains**
-
-| | Level |
-|---|---|
-| Automation & scripting | beginner → intermediate |
-| Document processing | beginner |
-| AI API integration | beginner |
-| UX research & HCI theory | studying |
-
----
-
+I keep circling back to the same things: how people interact with systems, and how those systems quietly shape what they can or can’t do. I don’t care about tech as hype — I care about what actually works, especially when it removes friction instead of adding more noise. I’m drawn to building small, practical setups that take messy information and turn it into something usable, something that actually helps you think clearer or move faster. And beyond that, I can’t ignore the bigger layer — how technology isn’t neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it’s where things stop being abstract and start affecting real lives.
 
 ## 🛠️ Skills & Tools
 
