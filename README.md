@@ -74,7 +74,24 @@ Currently self learning: ·SQL · Power BI · Python ·
 
 These are the areas I return to, read about, and want to build in — not just interests I listed to fill a section.
 
-I keep circling back to the same things: how people interact with systems, and how those systems quietly shape what they can or can’t do. I don’t care about tech as hype — I care about what actually works, especially when it removes friction instead of adding more noise. I’m drawn to building small, practical setups that take messy information and turn it into something usable, something that actually helps you think clearer or move faster. And beyond that, I can’t ignore the bigger layer — how technology isn’t neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it’s where things stop being abstract and start affecting real lives.
+I keep circling back to the same things: how people interact with systems, 
+and how those systems quietly shape what they can or can’t do. 
+I don’t care about tech as hype 
+I care about what actually works, 
+especially when it removes friction instead of adding more noise. 
+I’m drawn to building small, practical setups that 
+take messy information and turn it into something usable, 
+something that actually helps you think clearer or move faster. 
+And beyond that, I can’t ignore the bigger layer
+how technology isn’t neutral, 
+how design decisions carry power, bias, and control. 
+That part interests me more than most of the technical side,
+because it’s where things stop being abstract
+and start affecting real lives.
+Where the analysis of what is being built 
+starts coming to light often with opinions,
+warning against possible harm to the human psyche
+and the nature of humanity being ignored.
 
 ## 🛠️ Skills & Tools
 
