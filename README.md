@@ -150,26 +150,13 @@ and the nature of humanity being ignored.
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-beginner-3d2b6b?style=flat-square&logo=html5&logoColor=E34F26)
 
 </td>
-<td valign="top">
 
-![Git](https://img.shields.io/badge/Git-beginner-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-<br/><br/>
-![GitHub](https://img.shields.io/badge/GitHub-beginner-1a1a2e?style=flat-square&logo=github&logoColor=white)
-<br/><br/>
-![VS Code](https://img.shields.io/badge/VS%20Code-comfortable-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-<br/><br/>
-![Linux](https://img.shields.io/badge/Linux%2FTerminal-beginner-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-
-</td>
 <td valign="top">
 
 ![Automation](https://img.shields.io/badge/Automation-beginner→mid-2d1b4e?style=flat-square)
 <br/><br/>
 ![AI APIs](https://img.shields.io/badge/AI%20APIs-beginner-2d1b4e?style=flat-square)
 <br/><br/>
-![Doc Processing](https://img.shields.io/badge/Document%20Processing-beginner-2d1b4e?style=flat-square)
-<br/><br/>
-![HCI / UX](https://img.shields.io/badge/HCI%20%2F%20UX%20Theory-studying-2d1b4e?style=flat-square)
 
 </td>
 </tr>
