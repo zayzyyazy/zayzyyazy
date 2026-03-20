@@ -75,11 +75,11 @@ which is what it is all about.
 | 📍 Location | Essen, Germany |
 |---|---|
 | 🎓 Degree | B.Sc. Human-Centered Computing + 
-Psychology (1st year) |
+              Psychology (1st year) |
 | 🌍 Languages | German (C1) ·
-English (C1) |
+                English (C1) |
 | 📚 Learning | SQL · Power BI
-· Python |
+               · Python |
 ```
 
 ## What I actually care about
