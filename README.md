@@ -43,20 +43,29 @@ I'm Zay in my first year studying HCI student :)
 What I care about is building things that are actually useful: 
 
 tools that handle information clearly, 
+
 reduce friction, and don't require 
+
 the person using them to think harder than necessary. 
 
 I'm drawn to automation, document processing, 
+
 personal knowledge systems, and the philosophical side 
+
 of what technology does to people and society.
 
 I also have another deeper passion, 
+
 which is to explore the deeper meaning behind things. 
 Be it systems, behaviours, 
+
 i enjoy in depth analysis and reasearch in topics 
 that directly affect us human beings.
+
 That answers the question of "Why HCI?", 
+
 I really enjoy learning technology and psychology, 
+
 which is what it is all about.
 
 ---
@@ -72,9 +81,14 @@ Currently self learning: ·SQL · Power BI · Python ·
 
 ## What I actually care about
 
-These are the areas I return to, read about, and want to build in — not just interests I listed to fill a section.
+These are the areas I return to, read about, 
+
+and want to build in 
+
+not just interests I listed to fill a section.
 
 I keep circling back to the same things: 
+
 how people interact with systems, 
 
 and how those systems quietly
@@ -86,22 +100,32 @@ I care about what actually works,
 especially when it removes friction instead of adding more noise. 
 
 I’m drawn to building small, practical setups that 
+
 take messy information and turn it into something usable, 
 
-something that actually helps you think clearer or move faster. 
+something that actually helps 
+
+you think clearer or move faster. 
 
 And beyond that, I can’t ignore the bigger layer
 how technology isn’t neutral, 
 
 how design decisions carry power, bias, and control. 
 
-That part interests me more than most of the technical side,
+That part interests me more than most
+
+of the technical side,
+
 because it’s where things stop being abstract
+
 and start affecting real lives.
 
 Where the analysis of what is being built 
+
 starts coming to light often with opinions,
+
 warning against possible harm to the human psyche
+
 and the nature of humanity being ignored.
 
 ## 🛠️ Skills & Tools
