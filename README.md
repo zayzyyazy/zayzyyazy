@@ -11,11 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=9B8EC4&center=true&vCenter=true&width=520&lines=HCI+student+%40+Universit%C3%A4t+Duisburg-Essen;building+tools+that+are+useful%2C+not+just+functional;thinking+about+what+technology+does+to+people;early+in+the+journey+%E2%80%94+building+intentionally)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=zayzyyazy&style=flat-square&color=7c6fcd&labelColor=0d1117&label=profile+views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/zayzyyazy?style=flat-square&color=7c6fcd&labelColor=0d1117&label=followers)](https://github.com/zayzyyazy?tab=followers)
 
 </div>
 
@@ -166,13 +161,13 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 ## 📊 Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" height="150" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" height="150" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" height="150" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" height="150" />
+</p>
 
 ---
 
