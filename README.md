@@ -108,8 +108,6 @@ I keep circling back to the same things: how people interact with systems, and h
 </tr>
 </table>
 
-> All levels are honest. *Beginner* means I can use it and understand it — not that I've mastered it.
-
 </details>
 
 ---
@@ -162,11 +160,11 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" width="400"/>
 </p>
 
 ---
@@ -177,8 +175,7 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 | 🎓 University | Universität Duisburg-Essen &nbsp;·&nbsp; B.Sc. Menschzentrierte Informatik & Psychologie |
 |---|---|
-| 📧 Email | *(add your email)* |
-| 💼 LinkedIn | *(add your LinkedIn)* |
+| 📧 Email |zaraselim04@gmail.com|
 | 🌐 Portfolio | *(coming soon)* |
 
 <br/>
