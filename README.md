@@ -162,19 +162,19 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 <td width="58%" valign="top">
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" width="360" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" width="340" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" width="360" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" width="340" />
 </p>
 
 ---
 
 ## 📬 Find me
 
-- 🎓 **University:** Universität Duisburg-Essen — B.Sc. Menschzentrierte Informatik & Psychologie
+**University:** Universität Duisburg-Essen — B.Sc. Menschzentrierte Informatik & Psychologie
 - 📧 **Email:** zaraselim04@gmail.com
 - 🌐 **Portfolio:** coming soon
 
