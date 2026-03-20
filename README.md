@@ -33,11 +33,20 @@
 
 ---
 
-## Who I am
+## Who am I?
 
 I'm Zay in my first year studying HCI student :)
-What I care about is building things that are actually useful: tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
-I also have another deeper passion, which is to explore the deeper meaning behind things. Be it systems, behaviours, i enjoy in depth analysis and reasearch in topics that directly affect us human beings. That answers the question of "Why HCI?", I really enjoy learning technology and psychology, which is what it is all about.
+
+What I care about is building things that are actually useful: 
+
+tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. 
+
+I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
+
+I also have another deeper passion, 
+which is to explore the deeper meaning behind things. 
+Be it systems, behaviours, i enjoy in depth analysis and reasearch in topics that directly affect us human beings.
+That answers the question of "Why HCI?", I really enjoy learning technology and psychology, which is what it is all about.
 
 ---
 
