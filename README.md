@@ -24,8 +24,11 @@
 
 <div align="center">
   <sub>
-    B.Sc. Menschzentrierte Informatik &amp; Psychologie · Universität Duisburg-Essen<br/>
-    Interested in how technology shapes people and and how people should shape technology.
+    B.Sc. Menschzentrierte Informatik &amp; Psychologie 
+        · Universität Duisburg-Essen
+        <br/>
+    Interested in how technology shapes people 
+        and and how people should shape technology.
   </sub>
 </div>
 
@@ -39,26 +42,32 @@ I'm Zay in my first year studying HCI student :)
 
 What I care about is building things that are actually useful: 
 
-tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. 
+tools that handle information clearly, 
+reduce friction, and don't require 
+the person using them to think harder than necessary. 
 
-I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
+I'm drawn to automation, document processing, 
+personal knowledge systems, and the philosophical side 
+of what technology does to people and society.
 
 I also have another deeper passion, 
 which is to explore the deeper meaning behind things. 
-Be it systems, behaviours, i enjoy in depth analysis and reasearch in topics that directly affect us human beings.
-That answers the question of "Why HCI?", I really enjoy learning technology and psychology, which is what it is all about.
+Be it systems, behaviours, 
+i enjoy in depth analysis and reasearch in topics 
+that directly affect us human beings.
+That answers the question of "Why HCI?", 
+I really enjoy learning technology and psychology, 
+which is what it is all about.
 
 ---
 
 ## Snapshot
 
 ```
-📍 Duisburg-Essen, Germany
-🎓 B.Sc. Human-Centered Computing + Psychology (1st year)
-🔧 Currently building: AI-powered document processing tools
-📖 Currently studying: Python · Git · HCI theory · UX fundamentals
-🧠 Thinking about: personal knowledge systems, automation, tech & society
-🌱 Honest level: beginner — learning in public, building intentionally
+📍Essen, Germany
+B.Sc. Human-Centered Computing + Psychology (1st year)
+Languages: ·German (C1)·English (C1) ·
+Currently self learning: ·SQL · Power BI · Python ·
 ```
 
 ## What I actually care about
