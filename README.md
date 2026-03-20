@@ -25,7 +25,7 @@
 <div align="center">
   <sub>
     B.Sc. Menschzentrierte Informatik &amp; Psychologie · Universität Duisburg-Essen<br/>
-    Interested in how technology shapes people — and how people should shape technology.
+    Interested in how technology shapes people and and how people should shape technology.
   </sub>
 </div>
 
@@ -35,11 +35,9 @@
 
 ## Who I am
 
-I'm Zay — a first-year HCI student studying the space between people and software. I'm early in my journey as a programmer, and I'm not pretending otherwise.
-
+I'm Zay in my first year studying HCI student :)
 What I care about is building things that are actually useful: tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
-
-I don't have years of experience. What I do have is a clear sense of what I want to build and why — and a habit of finishing what I start.
+I also have another deeper passion, which is to explore the deeper meaning behind things. Be it systems, behaviours, i enjoy in depth analysis and reasearch in topics that directly affect us human beings. That answers the question of "Why HCI?", I really enjoy learning technology and psychology, which is what it is all about.
 
 ---
 
@@ -160,11 +158,13 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
+      
 ## 📊 Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zayzyyazy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9b8ec4&icon_color=7c6fcd&text_color=c9d1d9&hide=contribs&count_private=true&rank_icon=github" width="340" />
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" width="340" />
