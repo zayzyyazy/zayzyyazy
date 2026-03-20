@@ -72,11 +72,11 @@ which is what it is all about.
 
 ## Snapshot
 
-```
-📍Essen, Germany
-B.Sc. Human-Centered Computing + Psychology (1st year)
-Languages: ·German (C1)·English (C1) ·
-Currently self learning: ·SQL · Power BI · Python ·
+| 📍 Location | Essen, Germany |
+|---|---|
+| 🎓 Degree | B.Sc. Human-Centered Computing + Psychology (1st year) |
+| 🌍 Languages | German (C1) · English (C1) |
+| 📚 Learning | SQL · Power BI · Python |
 ```
 
 ## What I actually care about
