@@ -157,7 +157,9 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 ---
 
-## 📊 Stats
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 ## 📊 Stats
 
 <p align="center">
@@ -172,18 +174,11 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 ## 📬 Find me
 
-<div align="center">
+- 🎓 **University:** Universität Duisburg-Essen — B.Sc. Menschzentrierte Informatik & Psychologie
+- 📧 **Email:** zaraselim04@gmail.com
+- 🌐 **Portfolio:** coming soon
 
-| 🎓 University | Universität Duisburg-Essen &nbsp;·&nbsp; B.Sc. Menschzentrierte Informatik & Psychologie |
-|---|---|
-| 📧 Email |zaraselim04@gmail.com|
-| 🌐 Portfolio | *(coming soon)* |
-
-<br/>
-
-*I'm open to **Werkstudentenstellen** and internships in data analysis, research, automation, or anything at the HCI / AI / information systems intersection.*
-
-</div>
+_I’m open to Werkstudentenstellen and internships in data analysis, research, automation, or anything at the HCI / AI / information systems intersection._
 
 <br/>
 
