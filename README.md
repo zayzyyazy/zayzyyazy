@@ -11,49 +11,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=9B8EC4&center=true&vCenter=true&width=520&lines=HCI+student+%40+Universit%C3%A4t+Duisburg-Essen;building+tools+that+are+useful%2C+not+just+functional;thinking+about+what+technology+does+to+people;early+in+the+journey+%E2%80%94+building+intentionally)](https://git.io/typing-svg)
 
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-zaraselim04%40gmail.com-9b8ec4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaraselim04@gmail.com)
+&nbsp;
+[![University](https://img.shields.io/badge/UDE-Menschzentrierte%20Informatik-2d1b4e?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.uni-due.de)
+
 </div>
 
 <br/>
 
 ---
 
-<div align="center">
-  <sub>
-    B.Sc. Menschzentrierte Informatik &amp; Psychologie
-        · Universität Duisburg-Essen
-        <br/>
-    Interested in how technology shapes people
-        and how people should shape technology.
-  </sub>
-</div>
+## About
 
-<br/>
-
----
-
-## Who am I?
-
-I'm Zay, in my first year studying HCI :)
+I'm Zay, a first-year HCI student at Universität Duisburg-Essen, studying B.Sc. Menschzentrierte Informatik & Psychologie.
 
 What I care about is building things that are actually useful: tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
 
-I also have a deeper passion — exploring the meaning behind things. Be it systems or behaviours, I enjoy in-depth analysis and research into topics that directly affect us as human beings.
+<details>
+<summary><b>What I actually care about (the longer version)</b></summary>
 
-That answers "Why HCI?": I genuinely enjoy learning technology and psychology, which is exactly what it's all about.
-
----
-
-## Snapshot
-
-| 📍 Location | Essen, Germany |
-|---|---|
-| 🎓 Degree | B.Sc. Human-Centered Computing + Psychology (1st year) |
-| 🌍 Languages | German (C1) · English (C1) |
-| 📚 Learning | SQL · Power BI · Python |
-
----
-
-## What I actually care about
+<br/>
 
 I keep circling back to the same things: how people interact with systems, and how those systems quietly shape what they can or can't do. I don't care about tech as hype — I care about what actually works, especially when it removes friction instead of adding more noise.
 
@@ -61,51 +40,45 @@ I'm drawn to building small, practical setups that take messy information and tu
 
 And beyond that, I can't ignore the bigger layer: how technology isn't neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it's where things stop being abstract and start affecting real lives — where analysis of what's being built starts coming to light, often with opinions warning against possible harm to the human psyche and the nature of humanity being ignored.
 
+</details>
+
+<br/>
+
+---
+
+## Snapshot
+
+| | |
+|---|---|
+| 📍 **Location** | Essen, Germany |
+| 🎓 **Degree** | B.Sc. Human-Centered Computing + Psychology (1st year) |
+| 🌍 **Languages** | German (C1) · English (C1) |
+| 📚 **Currently learning** | SQL · Power BI · Python |
+| 🔭 **Open to** | Werkstudentenstellen · internships · HCI / AI / data research |
+
 ---
 
 ## 🛠️ Skills & Tools
 
-<details open>
-<summary><b>Languages · Platforms · Domains</b></summary>
+<div align="center">
 
-<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,html,css,md&theme=dark" />
+</a>
 
-<table>
-<tr>
-<th align="left" width="33%">Languages</th>
-<th align="left" width="33%">Tools & Platforms</th>
-<th align="left" width="33%">Domains</th>
-</tr>
-<tr>
-<td valign="top">
-
-![Python](https://img.shields.io/badge/Python-beginner-3d2b6b?style=flat-square&logo=python&logoColor=FFD43B)
 <br/><br/>
-![Markdown](https://img.shields.io/badge/Markdown-beginner→mid-3d2b6b?style=flat-square&logo=markdown&logoColor=white)
-<br/><br/>
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-beginner-3d2b6b?style=flat-square&logo=html5&logoColor=E34F26)
 
-</td>
-<td valign="top">
+<img src="https://img.shields.io/badge/Automation-beginner→mid-2d1b4e?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20APIs-beginner-2d1b4e?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/HCI-studying-4b3880?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Analysis-learning-4b3880?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tech%20Ethics-curious-4b3880?style=flat-square" />
 
-![Automation](https://img.shields.io/badge/Automation-beginner→mid-2d1b4e?style=flat-square)
-<br/><br/>
-![AI APIs](https://img.shields.io/badge/AI%20APIs-beginner-2d1b4e?style=flat-square)
-
-</td>
-<td valign="top">
-
-![HCI](https://img.shields.io/badge/HCI-studying-4b3880?style=flat-square)
-<br/><br/>
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-learning-4b3880?style=flat-square)
-<br/><br/>
-![Tech Ethics](https://img.shields.io/badge/Tech%20Ethics-curious-4b3880?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
+</div>
 
 ---
 
@@ -164,7 +137,7 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayzyyazy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9b8ec4&text_color=c9d1d9&langs_count=4" height="130" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zayzyyazy&bg_color=0d1117&color=9b8ec4&line=7c6fcd&point=c084fc&area=true&area_color=3d2b6b&hide_border=true" width="95%" />
 
 </div>
 
@@ -194,17 +167,13 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 ---
 
-## 📬 Find me
+<div align="center">
 
-**University:** Universität Duisburg-Essen — B.Sc. Menschzentrierte Informatik & Psychologie
-- 📧 **Email:** zaraselim04@gmail.com
-- 🌐 **Portfolio:** coming soon
-
-_I'm open to Werkstudentenstellen and internships in data analysis, research, automation, or anything at the HCI / AI / information systems intersection._
+_"The most profound technologies are those that disappear."_ — Mark Weiser
 
 <br/>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=90&section=footer&animation=fadeIn" width="100%" />
 <sub>building slowly · building intentionally</sub>
+
 </div>
