@@ -37,7 +37,7 @@ I'm Zay, in my first year studying HCI :)
 
 What I care about is building things that are actually useful: tools that handle information clearly, reduce friction, and don't require the person using them to think harder than necessary. I'm drawn to automation, document processing, personal knowledge systems, and the philosophical side of what technology does to people and society.
 
-I also have a deeper passion — exploring the meaning behind things. Be it systems or behaviours, I enjoy in-depth analysis and research into topics that directly affect us as human beings.
+I also have a deeper passion exploring the meaning behind things. Be it systems or behaviours, I enjoy in depth analysis and research into topics that directly affect us as human beings.
 
 That answers "Why HCI?": I genuinely enjoy learning technology and psychology, which is exactly what it's all about.
 
@@ -55,11 +55,11 @@ That answers "Why HCI?": I genuinely enjoy learning technology and psychology, w
 
 ## What I actually care about
 
-I keep circling back to the same things: how people interact with systems, and how those systems quietly shape what they can or can't do. I don't care about tech as hype — I care about what actually works, especially when it removes friction instead of adding more noise.
+I keep circling back to the same things: how people interact with systems, and how those systems quietly shape what they can or can't do. I don't care about tech as hype, I care about what actually works, especially when it removes friction instead of adding more noise.
 
-I'm drawn to building small, practical setups that take messy information and turn it into something usable — something that helps you think clearer or move faster.
+I'm drawn to building small, practical setups that take messy information and turn it into something usable,so mething that actually helps you think clearer or move faster.
 
-And beyond that, I can't ignore the bigger layer: how technology isn't neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it's where things stop being abstract and start affecting real lives — where analysis of what's being built starts coming to light, often with opinions warning against possible harm to the human psyche and the nature of humanity being ignored.
+And beyond that, I can't ignore the deeper layer: how technology isnt neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it's where things stop being abstract and start affecting real lives, where analysis of what's being built and how it affects humans starts coming to light, often with opinions warning against possible harm to the human psyche and the nature of humanity being ignored.
 
 ---
 
