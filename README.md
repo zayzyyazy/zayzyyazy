@@ -63,51 +63,6 @@ And beyond that, I can't ignore the deeper layer: how technology isnt neutral, h
 
 ---
 
-## 🛠️ Skills & Tools
-
-<details open>
-<summary><b>Languages · Platforms · Domains</b></summary>
-
-<br/>
-
-<table>
-<tr>
-<th align="left" width="33%">Languages</th>
-<th align="left" width="33%">Tools & Platforms</th>
-<th align="left" width="33%">Domains</th>
-</tr>
-<tr>
-<td valign="top">
-
-![Python](https://img.shields.io/badge/Python-beginner-3d2b6b?style=flat-square&logo=python&logoColor=FFD43B)
-<br/><br/>
-![Markdown](https://img.shields.io/badge/Markdown-beginner→mid-3d2b6b?style=flat-square&logo=markdown&logoColor=white)
-<br/><br/>
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-beginner-3d2b6b?style=flat-square&logo=html5&logoColor=E34F26)
-
-</td>
-<td valign="top">
-
-![Automation](https://img.shields.io/badge/Automation-beginner→mid-2d1b4e?style=flat-square)
-<br/><br/>
-![AI APIs](https://img.shields.io/badge/AI%20APIs-beginner-2d1b4e?style=flat-square)
-
-</td>
-<td valign="top">
-
-![HCI](https://img.shields.io/badge/HCI-studying-4b3880?style=flat-square)
-<br/><br/>
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-learning-4b3880?style=flat-square)
-<br/><br/>
-![Tech Ethics](https://img.shields.io/badge/Tech%20Ethics-curious-4b3880?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
-
----
 
 ## 📂 Featured Project
 
