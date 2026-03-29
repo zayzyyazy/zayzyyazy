@@ -125,30 +125,6 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zayzyyazy&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayzyyazy/zayzyyazy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayzyyazy/zayzyyazy/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/zayzyyazy/zayzyyazy/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📬 Find me
 
 **University:** Universität Duisburg-Essen — B.Sc. Menschzentrierte Informatik & Psychologie
