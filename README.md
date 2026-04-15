@@ -62,17 +62,15 @@ I'm drawn to building small, practical setups that take messy information and tu
 And beyond that, I can't ignore the deeper layer: how technology isnt neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it's where things stop being abstract and start affecting real lives, where analysis of what's being built and how it affects humans starts coming to light, often with opinions warning against possible harm to the human psyche and the nature of humanity being ignored.
 
 ---
-
-
-## 📂 Featured Project
+## 📂 Featured Projects
 
 <table>
 <tr>
 <td>
 
-<h3><a href="https://github.com/zayzyyazy/pdf-reading-tracker">pdf-reading-tracker</a></h3>
+<h3><a href="https://github.com/zayzyyazy/project-explainer">project-explainer</a></h3>
 
-An AI-powered document processing system for turning a pile of unread files into structured, searchable knowledge.
+A local desktop app that imports any codebase, scans it, and returns a structured explanation — stored in a personal library. Your code never leaves your machine.
 
 <br/>
 
@@ -84,16 +82,16 @@ An AI-powered document processing system for turning a pile of unread files into
 <tr>
 <td valign="top" width="55%">
 
-- Accepts **PDF, TXT, and DOCX** input
-- Extracts full text from each document
-- Summarizes content using an **AI model**
-- **Tags and categorizes** documents automatically
-- Saves everything to **clean CSV output**
+- Imports any **local project folder**
+- Scans and snapshots the codebase intelligently
+- Sends a capped snapshot to the **Claude API**
+- Stores structured explanations in **SQLite**
+- Browse your full **project library** from a clean UI
 
 </td>
 <td valign="top" width="45%">
 
-I had too many documents and no good way to process them. I wanted a system I'd actually use — not a demo, a real tool. This is the first project where all the pieces connected into something that works end-to-end.
+Every time I opened an unfamiliar codebase I wasted time just figuring out what it was. I wanted a tool that gives me a clear, structured explanation in seconds — and remembers it. Built local-first so nothing gets sent to a server except the API call.
 
 </td>
 </tr>
@@ -101,13 +99,141 @@ I had too many documents and no good way to process them. I wanted a system I'd 
 
 <br/>
 
-`Python` &nbsp;·&nbsp; `AI API integration` &nbsp;·&nbsp; `file parsing` &nbsp;·&nbsp; `CSV output` &nbsp;·&nbsp; `automation`
+`Rust` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Tauri` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Claude API`
 
 </td>
 </tr>
 </table>
 
 ---
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/zayzyyazy/activity-intelligence">activity-intelligence</a></h3>
+
+A personal work-intelligence engine that logs what you're doing in natural language, classifies it with AI, and surfaces real behavioral patterns over time.
+
+<br/>
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- Logs activity in **natural language** via CLI
+- **AI classifies** each entry by type and productivity
+- Stores events in **SQLite** with relational context
+- Generates **daily and weekly pattern reports**
+- Exports to **CSV** for further analysis
+
+</td>
+<td valign="top" width="45%">
+
+Most productivity tools require too much manual input and still can't tell you how your time actually went. I wanted something I could log in seconds and get honest feedback from — not just a timer, but a system that understands what I was doing and why it mattered.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`Python` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `AI classification` &nbsp;·&nbsp; `behavioral tracking` &nbsp;·&nbsp; `automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/zayzyyazy/ai-paper-analyzer">ai-paper-analyzer</a></h3>
+
+A CLI tool for research papers that goes beyond summaries — extracting the main argument, supporting logic, and weaknesses in reasoning.
+
+<br/>
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- Accepts **PDF research papers** as input
+- Extracts **main claim and argument structure**
+- Identifies **weaknesses and gaps** in reasoning
+- Returns a structured **critical breakdown**
+- Built for **literature reviews and academic reading**
+
+</td>
+<td valign="top" width="45%">
+
+Summaries don't help you think — they just compress. I wanted a tool that reads a paper the way a critical reader would: what is it actually arguing, what supports it, and where does the reasoning break down. Useful for anyone writing a literature review or evaluating sources seriously.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`Python` &nbsp;·&nbsp; `AI API integration` &nbsp;·&nbsp; `PDF parsing` &nbsp;·&nbsp; `academic tooling` &nbsp;·&nbsp; `argument extraction`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/zayzyyazy/study-workflow">study-workflow</a></h3>
+
+A local study-material operating system that transforms raw lecture files into structured study assets — glossaries, worked examples, revision sheets, and full study packs.
+
+<br/>
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- Ingests **lecture PDFs and notes**
+- Generates **glossary, teach-me, and worked examples**
+- Produces **revision sheets and combined study packs**
+- Manages materials across **multiple courses**
+- Runs fully **locally via FastAPI + SQLite**
+
+</td>
+<td valign="top" width="45%">
+
+Lecture files pile up fast and storing them doesn't help you learn them. I needed something that would actually transform the material into formats I could study from — not just organize files, but turn them into something useful. Built it for my own university workflow and it stuck.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`Python` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `AI generation` &nbsp;·&nbsp; `educational tooling`
+
+</td>
+</tr>
+</table>
+
 
 ## 📊 Stats
 
