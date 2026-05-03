@@ -48,8 +48,8 @@ That answers "Why HCI?": I genuinely enjoy learning technology and psychology, w
 | 📍 Location | Essen, Germany |
 |---|---|
 | 🎓 Degree | B.Sc. Human-Centered Computing + Psychology (1st year) |
-| 🌍 Languages | German (C1) · English (C1) |
-| 📚 Learning | SQL · Power BI · Python |
+| 🌍 Languages | German (C1) · English (C1) · French (B1) |
+| 🛠️ Skills | LLM APIs · Prompting · API integrations · n8n · OAuth · Figma · Cursor · Claude Code |
 
 ---
 
@@ -62,7 +62,96 @@ I'm drawn to building small, practical setups that take messy information and tu
 And beyond that, I can't ignore the deeper layer: how technology isnt neutral, how design decisions carry power, bias, and control. That part interests me more than most of the technical side, because it's where things stop being abstract and start affecting real lives, where analysis of what's being built and how it affects humans starts coming to light, often with opinions warning against possible harm to the human psyche and the nature of humanity being ignored.
 
 ---
+
 ## 📂 Featured Projects
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/zayzyyazy/AI-Support-panel">AI Support Operations Console</a></h3>
+
+A local-first support console that classifies incoming messages with AI, assigns urgency, and creates structured tickets in HubSpot — so support teams stop reading every message by hand.
+
+<br/>
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- Ingests support messages from a form or operator panel
+- **AI classifies** category, priority, and escalation flag
+- Falls back to **rule-based logic** when the model is unsure
+- Calculates **SLA deadlines** automatically
+- Creates tickets in **HubSpot** (or a Mock CRM) via API
+- Dashboard with filters, escalation badges, resolve flow
+
+</td>
+<td valign="top" width="45%">
+
+Support teams still read every message manually and decide what to do with it. It's the kind of work that drains people fast and doesn't really need a human at the front. I wanted to see if I could build something that does the routine triage and only hands real edge cases back to a human — with a real CRM connected, not just a demo.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`React` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `Electron` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `HubSpot CRM` &nbsp;·&nbsp; `SLA logic`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/zayzyyazy/job-pipeline">job-pipeline</a></h3>
+
+A local-first pipeline that pulls Gmail job alerts, extracts the actual posting from the noise, and runs AI analysis on each one — so the inbox stops being a research bottleneck.
+
+<br/>
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- Syncs **Gmail job alerts** via OAuth
+- **Heuristic extraction** with AI fallback for messy formats
+- Optional: finds the **original posting** on the open web
+- AI enrichment for **skills, fit, and source quality**
+- Stores everything **locally in SQLite**
+- Decision dashboard: Saved / Applied / Ignored
+
+</td>
+<td valign="top" width="45%">
+
+I was on the receiving end of this problem. Job alerts come in scattered across email, the actual description is buried in snippets, and researching each one by hand takes forever. I wanted something that turns that noise into structured leads — with the source still traceable so I can tell where the info came from.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+`Python` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Gmail API` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `OAuth`
+
+</td>
+</tr>
+</table>
+
+---
 
 <table>
 <tr>
@@ -107,133 +196,17 @@ Every time I opened an unfamiliar codebase I wasted time just figuring out what 
 
 ---
 
-<table>
-<tr>
-<td>
+## 🛠️ Skills
 
-<h3><a href="https://github.com/zayzyyazy/activity-intelligence">activity-intelligence</a></h3>
+**AI & Automation** — LLM APIs (OpenAI, Claude) · Prompting & structured outputs · API integrations (Mail, CRM) · n8n / automation workflows · OAuth & local data handling
 
-A personal work-intelligence engine that logs what you're doing in natural language, classifies it with AI, and surfaces real behavioral patterns over time.
+**Product & Workflow Thinking** — Breaking down processes · spotting bottlenecks · designing automation logic · human-in-the-loop decisions · translating problems into inputs & outputs
 
-<br/>
+**Research & Writing** — Researching complex topics · breaking systems down and explaining them · writing clear demos & docs · structured argumentation
 
-<table>
-<tr>
-<th align="left">What it does</th>
-<th align="left">Why I built it</th>
-</tr>
-<tr>
-<td valign="top" width="55%">
-
-- Logs activity in **natural language** via CLI
-- **AI classifies** each entry by type and productivity
-- Stores events in **SQLite** with relational context
-- Generates **daily and weekly pattern reports**
-- Exports to **CSV** for further analysis
-
-</td>
-<td valign="top" width="45%">
-
-Most productivity tools require too much manual input and still can't tell you how your time actually went. I wanted something I could log in seconds and get honest feedback from — not just a timer, but a system that understands what I was doing and why it mattered.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-`Python` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `AI classification` &nbsp;·&nbsp; `behavioral tracking` &nbsp;·&nbsp; `automation`
-
-</td>
-</tr>
-</table>
+**Tools** — Cursor · Claude Code · Figma · Photoshop · Canva · Notion · Excel
 
 ---
-
-<table>
-<tr>
-<td>
-
-<h3><a href="https://github.com/zayzyyazy/ai-paper-analyzer">ai-paper-analyzer</a></h3>
-
-A CLI tool for research papers that goes beyond summaries — extracting the main argument, supporting logic, and weaknesses in reasoning.
-
-<br/>
-
-<table>
-<tr>
-<th align="left">What it does</th>
-<th align="left">Why I built it</th>
-</tr>
-<tr>
-<td valign="top" width="55%">
-
-- Accepts **PDF research papers** as input
-- Extracts **main claim and argument structure**
-- Identifies **weaknesses and gaps** in reasoning
-- Returns a structured **critical breakdown**
-- Built for **literature reviews and academic reading**
-
-</td>
-<td valign="top" width="45%">
-
-Summaries don't help you think — they just compress. I wanted a tool that reads a paper the way a critical reader would: what is it actually arguing, what supports it, and where does the reasoning break down. Useful for anyone writing a literature review or evaluating sources seriously.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-`Python` &nbsp;·&nbsp; `AI API integration` &nbsp;·&nbsp; `PDF parsing` &nbsp;·&nbsp; `academic tooling` &nbsp;·&nbsp; `argument extraction`
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td>
-
-<h3><a href="https://github.com/zayzyyazy/study-workflow">study-workflow</a></h3>
-
-A local study-material operating system that transforms raw lecture files into structured study assets — glossaries, worked examples, revision sheets, and full study packs.
-
-<br/>
-
-<table>
-<tr>
-<th align="left">What it does</th>
-<th align="left">Why I built it</th>
-</tr>
-<tr>
-<td valign="top" width="55%">
-
-- Ingests **lecture PDFs and notes**
-- Generates **glossary, teach-me, and worked examples**
-- Produces **revision sheets and combined study packs**
-- Manages materials across **multiple courses**
-- Runs fully **locally via FastAPI + SQLite**
-
-</td>
-<td valign="top" width="45%">
-
-Lecture files pile up fast and storing them doesn't help you learn them. I needed something that would actually transform the material into formats I could study from — not just organize files, but turn them into something useful. Built it for my own university workflow and it stuck.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-`Python` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Jinja2` &nbsp;·&nbsp; `AI generation` &nbsp;·&nbsp; `educational tooling`
-
-</td>
-</tr>
-</table>
-
 
 ## 📊 Stats
 
