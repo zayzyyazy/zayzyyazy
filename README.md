@@ -22,7 +22,7 @@
     B.Sc. Human-Centered Computing + Psychology
         · Universität Duisburg-Essen
         <br/>
-    Building local tools where language models do structured work.
+    Building local tools where language models do the actual processing work.
   </sub>
 </div>
 
@@ -32,11 +32,11 @@
 
 ## Who am I?
 
-I'm Zay — end of year one at university, working at an NLP company.
+I'm Zay. End of first year at university, working at an NLP company.
 
-I build local-first tools where language models do structured work: desktop apps with real UI, real storage, real pipelines. Most of what I make runs on your machine, stores in SQLite, and processes something useful — lecture PDFs into study cards, job listings into scored decisions, codebases into structured explanations.
+I came into this through philosophy before I came into it through code — language, interpretation, how meaning works in systems. My degree is Human-Centered Computing + Psychology, which fits that interest better than most technical programs would. It's probably why I ended up caring about how language models process things rather than what they generate.
 
-The direction that's gotten clear over the past year: LLM systems, automation, workflow design, applied NLP. Less focused on classic analytics, more focused on tools that actually transform and organize work.
+What I actually make: local desktop apps where an LLM call does real processing work and the output lives somewhere useful on your machine. The direction got clearer through building rather than through planning — I kept being drawn to the same kinds of problems, and at some point I stopped thinking of it as a preference and started treating it as a direction.
 
 ---
 
@@ -52,16 +52,16 @@ The direction that's gotten clear over the past year: LLM systems, automation, w
 
 ## What I actually build
 
-The pattern keeps repeating: messy input → structured AI processing → persistent, queryable output. Not a chatbot wrapper, not a demo — tools that do something real with the data.
+Most things I've built follow roughly the same shape: something messy comes in — a PDF, a job listing, a codebase, a pile of notes — a language model processes it with some structure behind the prompt, and the output ends up in SQLite where it's actually usable. Local storage by default. Not cloud-dependent.
 
 In practice:
 
-- Import a lecture PDF → generate study cards, quizzes, topic deep dives → stored locally in a course vault
-- Pull job listings from Gmail → run structured AI scoring on each → clear signal before applying
-- Scan a codebase → send a capped snapshot to Claude → store a structured explanation in SQLite
-- Capture context and open loops → run through a decision engine → get one concrete next action
+- Import a lecture PDF → structured study cards, quizzes, topic deep dives → stored in a local course vault
+- Pull job listings from Gmail → structured AI scoring on each → real signal before you spend time applying
+- Scan a codebase → send a capped snapshot to Claude → structured explanation stored in SQLite
+- Capture context and open tasks → run through a decision engine → one concrete next action
 
-Each of these is something I built for a real problem. The architecture is always the same: local storage, structured LLM calls, real UI.
+I built each of these because I actually needed them. The stack converged on roughly the same shape each time — local storage, real prompt design, real UI — and I stopped fighting that convergence.
 
 ---
 
@@ -95,7 +95,7 @@ A local-first desktop study OS for university courses. Import lecture PDFs — t
 </td>
 <td valign="top" width="45%">
 
-I was spending more time organizing study material than actually studying it. I wanted a tool that takes a lecture PDF and turns it into a proper study resource — real structure, not just a summary. Built it for my own courses, shipped as a desktop app.
+I kept spending more time organizing lecture notes than actually studying them. I wanted something that takes a PDF and turns it into material I'd actually use — structured, queryable, local. Built it for my own courses, kept using it.
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ A personal decision engine. Takes your declared focus, captured tasks, and real 
 </td>
 <td valign="top" width="45%">
 
-I had many open things and no clear signal on what actually mattered next. I wanted something that looks at what I've been doing, what I've captured, and what I said I care about — and makes a decision, not a list.
+I had too many things open with no good way to decide which one actually mattered. I wanted something that looks at what I've been doing, what I've captured, and what I said I cared about — and makes a decision, not a list.
 
 </td>
 </tr>
@@ -183,7 +183,7 @@ A local-first support console that classifies incoming messages with AI, assigns
 </td>
 <td valign="top" width="45%">
 
-Support teams still read every message manually and decide what to do with it. It's work that drains people fast and doesn't need a human at the front. I wanted something that handles routine triage and only escalates what actually needs a human — with a real CRM connected, not just a demo.
+Support teams still read every message manually before routing it. That kind of repetitive classification doesn't need a human at the front. I wanted something that handles the routine decisions and only surfaces what actually needs judgment — connected to a real CRM, not just a demo concept.
 
 </td>
 </tr>
@@ -227,7 +227,7 @@ A local-first pipeline that pulls Gmail job alerts, extracts the actual posting,
 </td>
 <td valign="top" width="45%">
 
-Job alerts come in scattered, descriptions are buried in snippets, and researching each one by hand is slow. I wanted structured signal early — actual scored decisions, not summaries.
+Job alerts come in scattered, descriptions are buried in email snippets, and going through them one by one is slow. I wanted an actual score on each listing — something I could filter on, not a summary I'd still have to interpret.
 
 </td>
 </tr>
@@ -270,7 +270,7 @@ A local desktop app that scans any codebase and returns a structured explanation
 </td>
 <td valign="top" width="45%">
 
-Every time I opened an unfamiliar codebase I wasted time just figuring out what it was. I wanted a tool that gives me a clear structured explanation in seconds — and remembers it. Built local-first so nothing gets sent to a server except the API call.
+I kept reopening old projects just to remember what they were. I wanted something that reads the codebase, sends it to Claude, and keeps the explanation. The local-first part wasn't a principle — sending code to a hosted service just made less sense.
 
 </td>
 </tr>
@@ -316,11 +316,11 @@ Every time I opened an unfamiliar codebase I wasted time just figuring out what 
 **University:** Universität Duisburg-Essen — B.Sc. Human-Centered Computing + Psychology  
 📧 **Email:** zaraselim04@gmail.com
 
-_Open to Werkstudentenstellen in LLM systems, automation, workflow tooling, or applied NLP._
+_Looking for Werkstudentenstellen in LLM systems, automation, or applied NLP._
 
 <br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=90&section=footer&animation=fadeIn" width="100%" />
-<sub>building intentionally · early in the path · moving in a clear direction</sub>
+<sub>year 1 done · a lot more to build</sub>
 </div>
