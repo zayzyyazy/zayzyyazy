@@ -1,6 +1,6 @@
 <!--  ╔══════════════════════════════════════════════════╗
       ║   zayzyyazy · GitHub Profile README              ║
-      ║   LLM Systems · Automation · Local-First Tools   ║
+      ║    · Automation · Workflows ·Local-First Tools   ║
       ╚══════════════════════════════════════════════════╝  -->
 
 <div align="center">
@@ -33,10 +33,15 @@
 ## Who am I?
 
 Hii :)
-i am Zay, at the end of my first year at university and currently working at an NLP company.
-I didn’t come into this from a classic tech route first. I came into it through philosophy — language, interpretation, meaning, and how people and systems make sense of things. That’s probably why I ended up being more interested in what language models can do with information than in just generating text.
-I study HCI and most of what I build sits somewhere between those worlds: local tools, structured workflows, and AI systems that help process, organize, or explain something real.
-Over the past year, that direction got clearer through building. I kept ending up in the same kinds of problems  LLM workflows, automation, local-first apps, study tools, decision tools — and at some point it stopped feeling like experimentation and started feeling like a direction.
+
+I’m Zay, at the end of my first year at university and currently working at an NLP company.
+
+I didn’t come into this through a classic tech route first. I came into it through philosophy — language, interpretation, meaning, and how people and systems make sense of things. That’s probably why I ended up being more interested in what language models can do with information than in just generating text.
+
+I study Human-Centered Computing + Psychology, and most of what I build sits somewhere between those worlds: local tools, structured workflows, and AI systems that help process, organize, or explain something real.
+
+Over the past year, that direction got clearer through building. I kept ending up in the same kinds of problems LLM workflows, automation, local-first apps, study tools, decision tools — and at some point it stopped feeling like experimentation and started feeling like a direction.
+
 ---
 
 ## Snapshot
@@ -45,13 +50,13 @@ Over the past year, that direction got clearer through building. I kept ending u
 |---|---|
 | 🎓 Degree | B.Sc. Human-Centered Computing + Psychology · Universität Duisburg-Essen · Year 1 done |
 | 🌍 Languages | German (C1) · English (C1) · French (B1) |
-| 🛠️ Stack | Tauri · Rust · React · TypeScript · Electron · Python · FastAPI · Flask · SQLite · OpenAI API · Claude API · Ollama |
+| 🛠️ Stack | Tauri · Rust · React · TypeScript  · Python · FastAPI · Flask · SQLite · LLM APIs ·|
 
 ---
 
 ## What I actually build
 
-Most things I've built follow roughly the same shape: something messy comes in — a PDF, a job listing, a codebase, a pile of notes — a language model processes it with some structure behind the prompt, and the output ends up in SQLite where it's actually usable. Local storage by default. Not cloud-dependent.
+Most things I've built follow roughly the same shape:  messy input comes in a PDF, a job listing, a codebase, a pile of notes  a language model processes it with some structure behind the prompt, and the output ends up in SQLite where it's actually usable. Local storage by default. Not cloud-dependent.
 
 In practice:
 
@@ -60,7 +65,7 @@ In practice:
 - Scan a codebase → send a capped snapshot to Claude → structured explanation stored in SQLite
 - Capture context and open tasks → run through a decision engine → one concrete next action
 
-I built each of these because I actually needed them. The stack converged on roughly the same shape each time — local storage, real prompt design, real UI — and I stopped fighting that convergence.
+I built each of these because I actually needed them. The stack converged on roughly the same shape each time: local storage, real prompt design, real UI, and I stopped fighting that convergence.
 
 ---
 
