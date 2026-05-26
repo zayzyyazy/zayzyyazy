@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=9B8EC4&center=true&vCenter=true&width=560&lines=student+%C2%B7+werkstudent+at+DKN+working+with+NLP+and+piplines;building+local-first+AI+tools;LLM+systems+%C2%B7+automation+%C2%B7+workflow+design;Tauri+%C2%B7+Rust+%C2%B7+React+%C2%B7+Python+%C2%B7+SQLite;structured+AI+output+that+actually+persists)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=9B8EC4&center=true&vCenter=true&width=560&lines=%C2%B7+werkstudent+at+DKN+working+with+NLP+and+piplines;building+local-first+AI+tools;LLM+systems+%C2%B7+automation+%C2%B7+workflow+design;Tauri+%C2%B7+Rust+%C2%B7+React+%C2%B7+Python+%C2%B7+SQLite;structured+AI+output+that+actually+persists)](https://git.io/typing-svg)
 
 </div>
 
