@@ -32,12 +32,11 @@
 
 ## Who am I?
 
-I'm Zay. End of first year at university, working at an NLP company.
-
-I came into this through philosophy before I came into it through code — language, interpretation, how meaning works in systems. My degree is Human-Centered Computing + Psychology, which fits that interest better than most technical programs would. It's probably why I ended up caring about how language models process things rather than what they generate.
-
-What I actually make: local desktop apps where an LLM call does real processing work and the output lives somewhere useful on your machine. The direction got clearer through building rather than through planning — I kept being drawn to the same kinds of problems, and at some point I stopped thinking of it as a preference and started treating it as a direction.
-
+Hii :)
+i am Zay, at the end of my first year at university and currently working at an NLP company.
+I didn’t come into this from a classic tech route first. I came into it through philosophy — language, interpretation, meaning, and how people and systems make sense of things. That’s probably why I ended up being more interested in what language models can do with information than in just generating text.
+I study HCI and most of what I build sits somewhere between those worlds: local tools, structured workflows, and AI systems that help process, organize, or explain something real.
+Over the past year, that direction got clearer through building. I kept ending up in the same kinds of problems  LLM workflows, automation, local-first apps, study tools, decision tools — and at some point it stopped feeling like experimentation and started feeling like a direction.
 ---
 
 ## Snapshot
