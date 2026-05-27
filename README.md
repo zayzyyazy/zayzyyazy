@@ -34,8 +34,6 @@
 
 Hii :)
 
-Hii :)
-
 I’m Zay. End of my first year at university, currently working at an NLP company.
 
 I didn’t really come into tech through the usual route. Before code, I was way more pulled toward philosophy, language, interpretation, meaning, and the question of how humans make sense of systems around them. That’s probably why I got interested in language models from the angle of structure, behavior, and information processing, not just “AI that generates text.”
