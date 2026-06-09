@@ -36,13 +36,11 @@ Hii :)
 
 I’m Zay. End of my first year at university, currently working at an NLP company.
 
-I didn’t really come into tech through the usual route. Before code, I was way more pulled toward philosophy, language, interpretation, meaning, and the question of how humans make sense of systems around them. That’s probably why I got interested in language models from the angle of structure, behavior, and information processing, not just “AI that generates text.”
+Before code, I was way more pulled toward philosophy, language, interpretation, meaning, and the question of how humans make sense of systems around them. That’s probably why I got interested in language models from the angle of structure, behavior, and information processing, not just “AI that generates text.”
 
-Right now I study Human-Centered Computing + Psychology, and most of what I build sits somewhere in that intersection: local-first tools, AI workflows, automation systems, study infrastructure, decision-support tools, and projects that try to make messy information actually usable.
+Right now I study Human Centered Computing + Psychology, and most of what I build sits somewhere in that intersection: local-first tools, AI workflows, automation systems, study infrastructure, decision-support tools, and projects that try to make messy information actually usable.
 
 Over the past year I kept building the same kinds of things without even planning to: LLM workflows, local desktop apps, AI-assisted systems, organization tools, research tools, automation pipelines. At some point it stopped feeling random and started feeling like an actual direction.
-
-I’m especially interested in the space between humans and systems — how technology shapes behavior, attention, communication, identity, work, and decision-making. A lot of my projects end up reflecting that in one way or another, even when they start as practical tools.
 
 Most of what’s here was built fast, locally, experimentally, and very hands-on. I like building things that are usable first, then refining them through iteration instead of waiting for some “perfect” version before shipping anything.
 
