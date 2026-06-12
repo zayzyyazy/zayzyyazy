@@ -1,15 +1,15 @@
 <!--  ╔══════════════════════════════════════════════════╗
       ║   zayzyyazy · GitHub Profile README              ║
-      ║    · Automation · Workflows ·Local-First Tools   ║
+      ║   LLM Systems · Agent Workflows · Local-First    ║
       ╚══════════════════════════════════════════════════╝  -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Zay&fontSize=72&fontColor=e8e0ff&fontAlignY=52&desc=LLM%20Systems%20%C2%B7%20Automation%20%C2%B7%20Local-First%20Tools&descSize=14&descColor=b0a4d8&descAlignY=74&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Zay&fontSize=72&fontColor=e8e0ff&fontAlignY=52&desc=LLM%20Systems%20%C2%B7%20Agent%20Workflows%20%C2%B7%20Local-First%20Tools&descSize=14&descColor=b0a4d8&descAlignY=74&animation=fadeIn" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=9B8EC4&center=true&vCenter=true&width=560&lines=%C2%B7+werkstudent+at+DKN+working+with+NLP+and+piplines;building+local-first+AI+tools;LLM+systems+%C2%B7+automation+%C2%B7+workflow+design;Tauri+%C2%B7+Rust+%C2%B7+React+%C2%B7+Python+%C2%B7+SQLite;structured+AI+output+that+actually+persists)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=900&color=9B8EC4&center=true&vCenter=true&width=600&lines=building+AI+systems+that+actually+process+information;LLM+pipelines+%C2%B7+structured+outputs+%C2%B7+agent+workflows;document+analysis+%C2%B7+knowledge+extraction+%C2%B7+retrieval;TypeScript+%C2%B7+React+%C2%B7+Python+%C2%B7+Tauri+%C2%B7+SQLite;local-first+by+default%2C+not+by+principle)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,10 +19,8 @@
 
 <div align="center">
   <sub>
-    B.Sc. Human-Centered Computing + Psychology
-        · Universität Duisburg-Essen
-        <br/>
-    Building local tools where language models do the actual processing work.
+    B.Sc. Human-Centered Computing + Psychology &nbsp;·&nbsp; Universität Duisburg-Essen<br/>
+    Building systems where LLMs do real processing work — not just generating text.
   </sub>
 </div>
 
@@ -32,42 +30,75 @@
 
 ## Who am I?
 
-Hii :)
+I'm Zay. I study Human-Centered Computing and Psychology, and I work at an NLP company.
 
-I’m Zay. End of my first year at university, currently working at an NLP company.
+Before I cared about code, I cared about philosophy — how humans make sense of systems, how meaning gets built and broken, how structure shapes behavior. That lens is probably why I ended up building what I build: not apps that talk, but systems that think. Things that take messy information and make it actually usable.
 
-Before code, I was way more pulled toward philosophy, language, interpretation, meaning, and the question of how humans make sense of systems around them. That’s probably why I got interested in language models from the angle of structure, behavior, and information processing, not just “AI that generates text.”
+Over the past year the pattern became clear: I keep building LLM workflows, document pipelines, agent architectures, and automation systems. That's not random anymore — it's a direction.
 
-Right now I study Human Centered Computing + Psychology, and most of what I build sits somewhere in that intersection: local-first tools, AI workflows, automation systems, study infrastructure, decision-support tools, and projects that try to make messy information actually usable.
-
-Over the past year I kept building the same kinds of things without even planning to: LLM workflows, local desktop apps, AI-assisted systems, organization tools, research tools, automation pipelines. At some point it stopped feeling random and started feeling like an actual direction.
-
-Most of what’s here was built fast, locally, experimentally, and very hands-on. I like building things that are usable first, then refining them through iteration instead of waiting for some “perfect” version before shipping anything.
-
----
-
-## Snapshot
-
-| 📍 Location | Essen, Germany |
-|---|---|
-| 🎓 Degree | B.Sc. Human-Centered Computing + Psychology · Universität Duisburg-Essen · Year 1 done |
-| 🌍 Languages | German (C1) · English (C1) · French (B1) |
-| 🛠️ Stack | Tauri · Rust · React · TypeScript  · Python · FastAPI · Flask · SQLite · LLM APIs ·|
+Most of my work sits at the intersection of **language models, information processing, and human workflows**. I'm less interested in model training or ML research and more focused on building practical systems on top of existing LLMs: structured outputs, retrieval, multi-step pipelines, and early multi-agent designs where different components handle different parts of a problem.
 
 ---
 
 ## What I actually build
 
-Most things I've built follow roughly the same shape:  messy input comes in a PDF, a job listing, a codebase, a pile of notes  a language model processes it with some structure behind the prompt, and the output ends up in SQLite where it's actually usable. Local storage by default. Not cloud-dependent.
+The architecture that keeps showing up across my projects:
 
-In practice:
+```
+Raw Input (PDF · email · codebase · notes)
+    → Structured extraction
+    → LLM processing with prompt design
+    → SQLite local storage
+    → Queryable, usable output
+```
 
-- Import a lecture PDF → structured study cards, quizzes, topic deep dives → stored in a local course vault
-- Pull job listings from Gmail → structured AI scoring on each → real signal before you spend time applying
-- Scan a codebase → send a capped snapshot to Claude → structured explanation stored in SQLite
-- Capture context and open tasks → run through a decision engine → one concrete next action
+In practice, that looks like:
 
-I built each of these because I actually needed them. The stack converged on roughly the same shape each time: local storage, real prompt design, real UI, and I stopped fighting that convergence.
+- Import a lecture PDF → structured study material, quizzes, topic dives → stored locally
+- Pull Gmail job alerts → AI scoring with explicit components → filter by actual signal
+- Scan a codebase → structured explanation via Claude API → searchable project library
+- Feed a document to multiple agents → each analyzes from a different angle → synthesized output
+
+The local-first default isn't a principle — it's usually just the right call for the type of data involved.
+
+---
+
+## 📦 What I'm focused on right now
+
+<table>
+<tr>
+<td width="50%">
+
+**Multi-agent workflows**
+
+Systems where multiple specialized agents exchange information, critique each other's outputs, or analyze a problem from different perspectives before reaching a conclusion. Moving past single-prompt pipelines.
+
+</td>
+<td width="50%">
+
+**Document intelligence**
+
+LLM-powered analysis of PDFs, research papers, and structured documents — not summarization, but extraction, classification, and knowledge structuring with real schemas behind the prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**AI-assisted review systems**
+
+Workflows that help users process information, surface decisions, and review content — where the LLM handles classification and structuring, not just generation.
+
+</td>
+<td width="50%">
+
+**Workflow orchestration**
+
+Designing pipelines where information moves through multiple processing stages. Context management, prompt chaining, structured JSON hand-offs between steps.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,11 +108,9 @@ I built each of these because I actually needed them. The stack converged on rou
 <tr>
 <td>
 
-<h3><a href="https://github.com/zayzyyazy/course-dashboard">Course Dashboard</a></h3>
+### [activity-intelligence](https://github.com/zayzyyazy/activity-intelligence)
 
-A local-first desktop study OS for university courses. Import lecture PDFs — the app extracts, profiles, and processes them into structured study material: summaries, key concepts, active recall quizzes, topic deep dives, and a full reading mode with math rendering.
-
-<br/>
+A personal decision engine. Takes declared focus, captured tasks, and real activity context — runs it through a structured AI call — and outputs **one concrete next action**. Not a to-do list. A system for cutting through noise.
 
 <table>
 <tr>
@@ -91,25 +120,22 @@ A local-first desktop study OS for university courses. Import lecture PDFs — t
 <tr>
 <td valign="top" width="55%">
 
-- **PDF ingestion** with text extraction and lecture profiling
-- AI generates **summary, key concepts, quiz, topic dives** per lecture
-- **Active recall quiz** mode with attempt tracking
-- **Ask AI** scoped to the current lecture context
-- Math rendering (KaTeX) for STEM content
-- **Local vault** — all course data on your machine
+- Reads real activity data from ActivityWatch
+- Structured AI call: ONE next action — format `NEXT_ACTION / WHY / AFTER`
+- Captures tasks, ideas, notes in a unified inbox
+- Focus scoring to match captured items to declared context
+- Filters, expand, mark done, promote
 
 </td>
 <td valign="top" width="45%">
 
-I kept spending more time organizing lecture notes than actually studying them. I wanted something that takes a PDF and turns it into material I'd actually use — structured, queryable, local. Built it for my own courses, kept using it.
+Too many things open, no good way to decide which actually mattered. Wanted something that looks at what I've been doing, what I've captured, and what I declared I cared about — then makes a decision, not a list.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-`Electron` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `OpenAI API` &nbsp;·&nbsp; `KaTeX` &nbsp;·&nbsp; `SQLite`
+`Tauri` · `Rust` · `React` · `TypeScript` · `ActivityWatch API` · `OpenAI` · `SQLite`
 
 </td>
 </tr>
@@ -121,11 +147,9 @@ I kept spending more time organizing lecture notes than actually studying them. 
 <tr>
 <td>
 
-<h3><a href="https://github.com/zayzyyazy/activity-intelligence">Activity Intelligence</a></h3>
+### [project-explainer](https://github.com/zayzyyazy/project-explainer)
 
-A personal decision engine. Takes your declared focus, captured tasks, and real activity context — runs it through a structured AI call — and outputs ONE concrete next action. Not a to-do list. A system for cutting through noise.
-
-<br/>
+A local desktop app that scans any codebase and returns a structured explanation — stored in a personal library. Your code never leaves your machine except for the API call.
 
 <table>
 <tr>
@@ -135,25 +159,22 @@ A personal decision engine. Takes your declared focus, captured tasks, and real 
 <tr>
 <td valign="top" width="55%">
 
-- Reads **real activity data** from ActivityWatch
-- Structured AI call outputs **ONE clear next action** — not a list
-- Format: NEXT\_ACTION / WHY / AFTER
-- Captures tasks, ideas, notes, questions in a unified inbox
-- **Focus scoring** for matching captured items to declared context
-- Actionable: filters, expand, mark done, promote
+- Imports any local project folder
+- Scans and snapshots the codebase with smart ignore rules
+- Sends a capped snapshot to the Claude API
+- Stores structured explanations in SQLite
+- Browse your full project library from a clean UI
 
 </td>
 <td valign="top" width="45%">
 
-I had too many things open with no good way to decide which one actually mattered. I wanted something that looks at what I've been doing, what I've captured, and what I said I cared about — and makes a decision, not a list.
+I kept reopening old projects just to remember what they were. Wanted something that reads the codebase, sends it to Claude, and keeps the explanation. Local-first wasn't a principle — sending code to a hosted service just made less sense.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-`Tauri` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `ActivityWatch API` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `SQLite`
+`Rust` · `TypeScript` · `React` · `Tauri` · `SQLite` · `Claude API`
 
 </td>
 </tr>
@@ -165,12 +186,88 @@ I had too many things open with no good way to decide which one actually mattere
 <tr>
 <td>
 
-<h3><a href="https://github.com/zayzyyazy/AI-Support-panel">AI Support Operations Console</a></h3>
+### [job-pipeline](https://github.com/zayzyyazy/job-pipeline)
+
+A local-first pipeline that pulls Gmail job alerts, extracts the actual posting, and runs structured AI scoring on each one — clear signal before spending time applying.
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- Syncs Gmail job alerts via OAuth
+- Heuristic extraction with AI fallback for messy formats
+- Structured AI scoring with explicit components + mismatch penalties — not free-form LLM text
+- Classifies roles (AI workflow vs backend-heavy vs generic)
+- All data in SQLite — Apply Assist for fast applications
+
+</td>
+<td valign="top" width="45%">
+
+Job alerts come in scattered, descriptions are buried in email snippets. Wanted an actual numeric score on each listing — something I could filter on, not a summary I'd still have to interpret.
+
+</td>
+</tr>
+</table>
+
+`Python` · `Flask` · `SQLite` · `Gmail API` · `OpenAI` · `OAuth`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td>
+
+### [course-dashboard](https://github.com/zayzyyazy/course-dashboard)
+
+A local-first desktop study OS. Import lecture PDFs — the app extracts, profiles, and processes them into structured study material: summaries, key concepts, active recall quizzes, topic deep dives.
+
+<table>
+<tr>
+<th align="left">What it does</th>
+<th align="left">Why I built it</th>
+</tr>
+<tr>
+<td valign="top" width="55%">
+
+- PDF ingestion with text extraction and lecture profiling
+- AI generates summary, key concepts, quiz, topic dives per lecture
+- Active recall quiz mode with attempt tracking
+- Ask AI scoped to the current lecture context
+- Math rendering (KaTeX) · local vault
+
+</td>
+<td valign="top" width="45%">
+
+I kept spending more time organizing lecture notes than actually studying them. Wanted something that takes a PDF and turns it into material I'd actually use.
+
+</td>
+</tr>
+</table>
+
+`Electron` · `React` · `TypeScript` · `Node.js` · `OpenAI API` · `KaTeX` · `SQLite`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td>
+
+### [AI-support-panel](https://github.com/zayzyyazy/AI-Support-panel)
 
 A local-first support console that classifies incoming messages with AI, assigns urgency, and creates structured tickets in HubSpot — so support teams stop reading every message by hand.
 
-<br/>
-
 <table>
 <tr>
 <th align="left">What it does</th>
@@ -179,112 +276,22 @@ A local-first support console that classifies incoming messages with AI, assigns
 <tr>
 <td valign="top" width="55%">
 
-- Ingests support messages from a form or operator panel
-- **AI classifies** category, priority, and escalation flag
-- Falls back to **rule-based logic** when the model is unsure
-- Calculates **SLA deadlines** automatically
-- Creates tickets in **HubSpot** (or Mock CRM) via API
+- AI classifies category, priority, and escalation flag
+- Falls back to rule-based logic when the model is unsure
+- Calculates SLA deadlines automatically
+- Creates tickets in HubSpot (or Mock CRM) via API
 - Dashboard with filters, escalation badges, resolve flow
 
 </td>
 <td valign="top" width="45%">
 
-Support teams still read every message manually before routing it. That kind of repetitive classification doesn't need a human at the front. I wanted something that handles the routine decisions and only surfaces what actually needs judgment — connected to a real CRM, not just a demo concept.
+Support teams still read every message manually before routing. Repetitive classification doesn't need a human at the front. Wanted something that handles routine decisions and surfaces only what actually needs judgment.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-`React` &nbsp;·&nbsp; `Express` &nbsp;·&nbsp; `Electron` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `HubSpot CRM` &nbsp;·&nbsp; `SLA logic`
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td>
-
-<h3><a href="https://github.com/zayzyyazy/job-pipeline">job-pipeline</a></h3>
-
-A local-first pipeline that pulls Gmail job alerts, extracts the actual posting, and runs structured AI scoring on each one — clear signal before you spend time applying.
-
-<br/>
-
-<table>
-<tr>
-<th align="left">What it does</th>
-<th align="left">Why I built it</th>
-</tr>
-<tr>
-<td valign="top" width="55%">
-
-- Syncs **Gmail job alerts** via OAuth
-- **Heuristic extraction** with AI fallback for messy formats
-- Structured AI scoring with **explicit components + mismatch penalties** — not free-form LLM text
-- Classifies roles (AI workflow vs backend-heavy vs generic)
-- **Skills breakdown**: Required / Tools / Nice to have
-- All data in **SQLite** — Apply Assist for fast applications
-
-</td>
-<td valign="top" width="45%">
-
-Job alerts come in scattered, descriptions are buried in email snippets, and going through them one by one is slow. I wanted an actual score on each listing — something I could filter on, not a summary I'd still have to interpret.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-`Python` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Gmail API` &nbsp;·&nbsp; `OpenAI` &nbsp;·&nbsp; `OAuth`
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td>
-
-<h3><a href="https://github.com/zayzyyazy/project-explainer">project-explainer</a></h3>
-
-A local desktop app that scans any codebase and returns a structured explanation — stored in a personal library. Your code never leaves your machine except for the API call.
-
-<br/>
-
-<table>
-<tr>
-<th align="left">What it does</th>
-<th align="left">Why I built it</th>
-</tr>
-<tr>
-<td valign="top" width="55%">
-
-- Imports any **local project folder**
-- Scans and snapshots the codebase with smart ignore rules
-- Sends a capped snapshot to the **Claude API**
-- Stores structured explanations in **SQLite**
-- Browse your full **project library** from a clean UI
-
-</td>
-<td valign="top" width="45%">
-
-I kept reopening old projects just to remember what they were. I wanted something that reads the codebase, sends it to Claude, and keeps the explanation. The local-first part wasn't a principle — sending code to a hosted service just made less sense.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-`Rust` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Tauri` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Claude API`
+`React` · `Express` · `Electron` · `OpenAI` · `HubSpot CRM` · `SLA logic`
 
 </td>
 </tr>
@@ -294,10 +301,28 @@ I kept reopening old projects just to remember what they were. I wanted somethin
 
 ## 🛠️ Stack
 
-**Desktop:** Tauri 2 · Rust · React · TypeScript · Electron  
-**Backend / pipelines:** Python · FastAPI · Flask · SQLite  
-**AI:** OpenAI API · Claude API (Anthropic) · Ollama (local LLMs)  
-**Tools:** Cursor · Claude Code · Vite · Tailwind CSS
+<table>
+<tr>
+<td width="25%"><b>Desktop</b></td>
+<td>Tauri 2 · Rust · React · TypeScript · Electron</td>
+</tr>
+<tr>
+<td><b>Backend / pipelines</b></td>
+<td>Python · FastAPI · Flask · SQLite</td>
+</tr>
+<tr>
+<td><b>LLM & AI</b></td>
+<td>OpenAI API · Claude API (Anthropic) · Ollama · structured JSON outputs · prompt engineering · context management</td>
+</tr>
+<tr>
+<td><b>Integrations</b></td>
+<td>Gmail API · HubSpot · ActivityWatch · OAuth</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Cursor · Claude Code · Vite · Tailwind CSS</td>
+</tr>
+</table>
 
 ---
 
@@ -322,11 +347,11 @@ I kept reopening old projects just to remember what they were. I wanted somethin
 **University:** Universität Duisburg-Essen — B.Sc. Human-Centered Computing + Psychology  
 📧 **Email:** zaraselim04@gmail.com
 
-_Looking for Werkstudentenstellen in LLM systems, automation, or applied NLP._
+_Open to Werkstudentenstellen in LLM systems, AI automation, or applied NLP._
 
 <br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=90&section=footer&animation=fadeIn" width="100%" />
-<sub>year 1 done · a lot more to build</sub>
+<sub>building systems that actually process things · not just generate text</sub>
 </div>
