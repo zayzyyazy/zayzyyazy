@@ -34,7 +34,7 @@ I'm Zay. I build practical AI solutions that solve real problems — and I get j
 
 Since March, I've been working primarily on a company's production Voice Agent — analyzing real conversations, refining prompting and behavior, and contributing to new features. Parallel to that, I build my own AI projects and keep deepening how I think about LLM applications, automation, and intelligent workflows.
 
-I'm not on a backend engineering track and I'm not doing ML research. What actually drives me is the process: understand how a system behaves today, find the friction, design a better workflow, build a working version, test it against reality, and iterate.
+What actually drives me is the process: understand how a system behaves today, find the friction, design a better workflow, build a working version, test it against reality, and iterate.
 
 ---
 
