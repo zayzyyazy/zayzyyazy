@@ -30,11 +30,26 @@
 
 ## Who I am
 
-I'm Zay. I study Human-Centered Computing and Psychology, and I work at a company building several different products, on the applied AI side.
+I'm Zay. I build practical AI solutions that solve real problems — and I get just as much satisfaction from understanding an existing system, finding its weak points, and making it better step by step, as I do from building something new.
 
-I spent my first year or so exploring — AI, psychology, design, business, code, UX, whatever was interesting that week. That's narrowed, but not into a single technology. What I've figured out is the *type* of work I want more of: taking a messy real-world process, figuring out how an AI system should behave inside it, and then testing and improving it until it actually holds up in practice. That's applied AI / AI process automation, not any one platform.
+Since March, I've been working primarily on a company's production Voice Agent — analyzing real conversations, refining prompting and behavior, and contributing to new features. Parallel to that, I build my own AI projects and keep deepening how I think about LLM applications, automation, and intelligent workflows.
 
-I'm not on a backend engineering track and I'm not doing ML research. I sit closer to where the business problem meets the AI system — understanding requirements, designing behavior, connecting systems through APIs, and finding and fixing the edge cases nobody thought about.
+I'm not on a backend engineering track and I'm not doing ML research. What actually drives me is the process: understand how a system behaves today, find the friction, design a better workflow, build a working version, test it against reality, and iterate.
+
+---
+
+## How I think about problems
+
+I don't start by coding. The process is usually:
+
+1. **Understand the system** — who's involved, what information flows where, where do people get stuck, where does it break down
+2. **Find the bottleneck** — repetitive work, unclear workflows, inconsistent behavior, edge cases, places where AI could actually help instead of just being "AI"
+3. **Design the workflow** — what should happen first, which decisions are AI's to make vs. a human's, what happens when something goes wrong
+4. **Build a working prototype** — not something theoretically perfect, something real that can actually be tested
+5. **Test against reality** — deliberately try to break it, ask *why* something failed instead of just patching it
+6. **Iterate** — most of the enjoyment is here: making something that already exists cleaner, more reliable, less friction
+
+This is also why the Voice Agent work has held my attention — not because it's "Voice AI," but because it's a constant stream of *why did this call fail*, *should the AI decide this or a human*, *what's actually missing here*. AI is the tool I currently use for that kind of work — not the point in itself.
 
 ---
 
