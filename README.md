@@ -40,6 +40,26 @@ Most first versions reveal that the original workflow was less simple than it ap
 I'm still early in my career and developing stronger foundations in backend engineering, testing, deployment and system design. My current strength is connecting a practical problem with a small technical solution and iterating on it until the workflow becomes clearer and more useful.
 
 ---
+## What I'm doing right now
+
+Alongside university, I currently work with a company's existing production voice agent.
+
+My work sits between the conversation itself and the workflow behind it. I review real calls, test different scenarios and help investigate why the agent behaves differently from what was intended. From there, I contribute to improvements in its prompts, conversation flows, tool usage and handling of unexpected situations.
+
+That can involve:
+
+* Reviewing call transcripts and identifying repeated failure patterns
+* Testing expected paths, edge cases and unclear caller responses
+* Refining instructions and parts of the conversation flow
+* Checking whether lookups, function calls and connected workflows behave correctly
+* Helping decide what the agent should handle automatically and when a person should take over
+* Contributing to new functionality and testing how it works in practice
+* Documenting findings and explaining changes to technical and non-technical colleagues
+
+I didn't build or architect the complete voice system. My responsibility is closer to understanding how the existing agent behaves in real use and helping make it more useful and reliable over time.
+
+This role is also where my wider interest in workflow automation became more concrete. Improving the agent rarely means changing only a prompt. It often requires understanding the complete process around the call: what information is available, what action should follow, which system needs to be updated and where human judgment is still necessary.
+
 
 ## The kind of work I enjoy
 
