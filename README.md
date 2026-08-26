@@ -27,28 +27,25 @@ What interests me most is the process around the technology: understanding how s
 
 I like building a usable first version, putting it through real scenarios and adapting it based on what I learn. Most of my projects follow that pattern—from turning support messages into structured tickets to converting lecture PDFs into material I can actually study with.
 
-I'm still early in my career and developing stronger foundations in backend engineering, testing, deployment and system design. I'm currently most comfortable with TypeScript, React, Python, APIs and structured LLM features.
+I’m still early in my career and continuing to expand my technical knowledge. My practical strength is currently in applied AI: understanding a process, translating it into prompts, conversation flows, functions and API connected workflows, and then testing and improving the result based on real usage.
+
 
 ---
 
 ## What I'm doing right now
 
-Alongside university, I work with a company's existing production voice agent.
+Alongside university, I work on a company's production voice agent ( inbound & outbound )
 
-I review real conversations, test different scenarios and help investigate why the agent does not always behave as intended. From there, I contribute to improvements in its prompts, conversation flows, tool usage and handling of unexpected situations.
+I review real conversations, test different scenarios and help investigate why the agent does not always behave as intended. From there, I improveme its prompts, conversation flows, tool usage, function callings and handling of unexpected situations.
 
 In practice, that includes:
 
 * Reviewing call transcripts and identifying repeated failure patterns
 * Testing expected paths, edge cases and unclear caller responses
-* Refining instructions and parts of the conversation flow
-* Testing lookups, function calls and connected workflows
-* Helping decide what the agent should handle and when a person should take over
-* Contributing to new functionality and explaining changes to different stakeholders
+* Refining instructions and conversation flow
+* expanding the agents capabilities with functions and API to existing systems
 
-I did not build or architect the complete system. My work is focused on understanding how the existing agent behaves in real use and helping improve it over time.
-
-This role has also taught me that improving an AI system rarely means changing only a prompt. The surrounding workflow—available information, business rules, integrations, fallbacks and human decisions—matters just as much.
+This role has also taught me that improving an AI system rarely means changing only a prompt. The surrounding workflow—available information, business rules, integrations, fallbacks and human decisions matters just as much.
 
 ---
 
@@ -88,8 +85,6 @@ Most of my work follows the same loop:
 </td>
 </tr>
 </table>
-
-I don't try to use AI for every step. I prefer normal logic for predictable behaviour, AI for flexible or unstructured input, and human judgment where automation should stop.
 
 ---
 
